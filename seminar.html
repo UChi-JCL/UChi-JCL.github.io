@@ -32,6 +32,9 @@
 
 </head>
 <body>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="https://uchi-jcl.github.io/js/jquery.js"><\/script>')</script>
+  <script src="https://uchi-jcl.github.io/js/text-expand.js"></script>
   <div class="global">
 
     <nav id="nav">
@@ -98,7 +101,7 @@ It aims to bring together students and faculty at UChicago and external speakers
 <p>The meetings will be in <b>JCL 298, Tuesday 12:30pm CT</b></p>
 <p>Remote participation: <b><a href="https://uchicago.zoom.us/j/7237704317?pwd=dzV4dVFxUVpZV0JYME9jbjIrbGtjdz09">Zoom Link</a></b></p>
 <div class="schedule-tbl">
-  <table>
+  <table id="user-list">
     <thead>
       <tr>
         <th class="schedule-time">Time</th>
@@ -114,10 +117,14 @@ It aims to bring together students and faculty at UChicago and external speakers
             <td class="schedule-slot">
             
 
-              Related Faculty
+              Nick Feamster, Ian Foster, Haifeng Xu
               <span class="speakers-company">UChicago</span>
             </td>
-            <td class="schedule-description">How AI transforms your research fields</td>
+            <td class="schedule-description">
+              <span class="short-description">How AI transforms your research fields<br /><a href="https://docs.google.com/document/d/1wR3XYOIxu_oPZHvOPNSO_RhO977lKp-hpohJjd-dWbw/edit?usp=sharing">meeting summary</a></span>
+            <span class="long-description" style="display: none;"></span>
+            
+            </td>
           </tr>
         
       
@@ -130,7 +137,11 @@ It aims to bring together students and faculty at UChicago and external speakers
               Related Faculty
               <span class="speakers-company">UChicago</span>
             </td>
-            <td class="schedule-description">How AI transforms your research fields</td>
+            <td class="schedule-description">
+              <span class="short-description">How AI transforms your research fields</span>
+            <span class="long-description" style="display: none;"></span>
+            
+            </td>
           </tr>
         
       
@@ -143,7 +154,11 @@ It aims to bring together students and faculty at UChicago and external speakers
               Hao Zhang
               <span class="speakers-company">UCSD</span>
             </td>
-            <td class="schedule-description"></td>
+            <td class="schedule-description">
+              <span class="short-description">TBD</span>
+            <span class="long-description" style="display: none;"></span>
+            
+            </td>
           </tr>
         
       
@@ -156,7 +171,14 @@ It aims to bring together students and faculty at UChicago and external speakers
               Ce Zhang
               <span class="speakers-company">UChicago/Together.ai</span>
             </td>
-            <td class="schedule-description">Building an Ecosystem for Open Foundation Models, Together</td>
+            <td class="schedule-description">
+              <span class="short-description">Building an Ecosystem for Open Foundation Models, Together</span>
+            <span class="long-description" style="display: none;">Building an Ecosystem for Open Foundation Models, Together <br /> <br /> Abstract: <br /> In this talk, I hope to share insights and experiences from our collaboration with the community to enhance open source foundation model ecosystems. A primary opportunity (and challenge) lies in balancing and jointly optimizing data quality, model architecture, and infrastructure. This includes managing the vast scale and cost of GPU clusters, optimizing their use, and reasoning about data quality in a principled manner to enhance model quality. To this end, we have focused our efforts on several technical problems, such as developing the RedPajama dataset, which tries to provide a modular perspective on data quality; communication optimization algorithms to accelerate learning across disaggregated infrastructures; and optimized inference infrastructure through the deep co-design of systems and model architecture. In this talk, I will describe our learnings from some of these projects and hope to receive feedback from everyone on how we can collectively advance the open source foundation model ecosystem. <br /> <br /> Bio: <br /> Ce is currently the CTO of Together.ai and the incoming Neubauer Associate Professor of Data Science at the University of Chicago. He was an Associate Professor in Computer Science at ETH Zurich. The mission of his research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. He believes in a systems approach to enabling this goal, and his current research focuses on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. Before joining ETH, Ce completed his PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both under the guidance of Christopher Ré. His work has received recognitions such as the SIGMOD Best Paper Award, SIGMOD Research Highlight Award, Google Focused Research Award, an ERC Starting Grant.</span>
+            
+              <br />
+              <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
+            
+            </td>
           </tr>
         
       
@@ -172,8 +194,8 @@ It aims to bring together students and faculty at UChicago and external speakers
     </div>
   </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="https://uchi-jcl.github.io/js/jquery.js"><\/script>')</script>
+  
+  
   
   
 </body>
