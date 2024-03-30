@@ -427,6 +427,7 @@ nav {
 }
 .schedule-tbl td,
 .schedule-tbl th {
+  
   position: relative;
   padding: 20px 30px;
   font-size: 1.4em;
@@ -563,8 +564,24 @@ nav {
     text-align: left;
   }
   .schedule-tbl td.schedule-description {
+    white-space: pre-wrap;
     font-size: 12px;
   }
+  
+
+
+  .short-description {
+    white-space: pre-wrap;
+    display: block; /* or inline, depending on your layout */
+  }
+
+  .long-description {
+      white-space: pre-wrap;
+      display: none;
+  }
+
+
+    
   /* partners */
   .sponsor-item,
   .partner-item {
