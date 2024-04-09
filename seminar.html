@@ -155,12 +155,15 @@ It aims to bring together students and faculty at UChicago and external speakers
             <td class="schedule-slot">
             
 
-              Hao Zhang
-              <span class="speakers-company">UCSD</span>
+              Sanjay Krishnan
+              <span class="speakers-company">UChicago</span>
             </td>
             <td class="schedule-description">
-              <span class="short-description">TBD</span>
-            <span class="long-description" style="display: none;"></span>
+              <span class="short-description">The Devil Has A Long Tail: Part 2</span>
+            <span class="long-description" style="display: none;">The Devil Has A Long Tail: Part 2 <br /> <br /> Abstract: <br /> When I was in graduate school, a prominent computer systems professor gave a talk about emerging distributed cloud services titled &ldquo;The Devil Has A Long Tail&rdquo;. The basic premise was that the emergence of distributed eventually consistent services was &ldquo;a deal with the devil&rdquo; &ndash; a promise of instant scalability at the cost of debugging the long tail of concurrency, performance, and programmability bugs. I argue that the application of LLMs in enterprise software today creates a similar dilemma: a promise of instant generality at the cost of a long tail of debugging both systems and machine learning problems. I show examples from recent enterprise LLM deployments that expose: (1) complex failure and rare failure modes, (2) deployment considerations that complicate debugging, and (3) the endless growth of scaffolding code that checks/corrects LLM outputs.</span>
+            
+              <br />
+              <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
             
             </td>
           </tr>
@@ -178,6 +181,26 @@ It aims to bring together students and faculty at UChicago and external speakers
             <td class="schedule-description">
               <span class="short-description">Building an Ecosystem for Open Foundation Models, Together</span>
             <span class="long-description" style="display: none;">Building an Ecosystem for Open Foundation Models, Together <br /> <br /> Abstract: <br /> In this talk, I hope to share insights and experiences from our collaboration with the community to enhance open source foundation model ecosystems. A primary opportunity (and challenge) lies in balancing and jointly optimizing data quality, model architecture, and infrastructure. This includes managing the vast scale and cost of GPU clusters, optimizing their use, and reasoning about data quality in a principled manner to enhance model quality. To this end, we have focused our efforts on several technical problems, such as developing the RedPajama dataset, which tries to provide a modular perspective on data quality; communication optimization algorithms to accelerate learning across disaggregated infrastructures; and optimized inference infrastructure through the deep co-design of systems and model architecture. In this talk, I will describe our learnings from some of these projects and hope to receive feedback from everyone on how we can collectively advance the open source foundation model ecosystem. <br /> <br /> Bio: <br /> Ce is currently the CTO of Together.ai and the incoming Neubauer Associate Professor of Data Science at the University of Chicago. He was an Associate Professor in Computer Science at ETH Zurich. The mission of his research is to make machine learning techniques widely accessible—while being cost-efficient and trustworthy—to everyone who wants to use them to make our world a better place. He believes in a systems approach to enabling this goal, and his current research focuses on building next-generation machine learning platforms and systems that are data-centric, human-centric, and declaratively scalable. Before joining ETH, Ce completed his PhD at the University of Wisconsin-Madison and spent another year as a postdoctoral researcher at Stanford, both under the guidance of Christopher Ré. His work has received recognitions such as the SIGMOD Best Paper Award, SIGMOD Research Highlight Award, Google Focused Research Award, an ERC Starting Grant.</span>
+            
+              <br />
+              <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
+            
+            </td>
+          </tr>
+        
+      
+        
+          <tr>
+            <td class="schedule-time">April 23 (tentative)</td>
+            <td class="schedule-slot">
+            
+
+              Hao Zhang
+              <span class="speakers-company">UCSD</span>
+            </td>
+            <td class="schedule-description">
+              <span class="short-description">Dynamic speculative decoding</span>
+            <span class="long-description" style="display: none;">Dynamic speculative decoding <br /> <br /> Abstract: <br /> Speculative decoding is a pivotal technique to reduce large language model inference latency, yet it faces two major challenges in practice: (1) the complexity to identify and deploy an appropriate draft model (2) its potential to slow down inference due to the nature of speculation. This talk covers two new techniques to fill these gaps. I’ll first discuss lookahead decoding, a new speculative decoding method that can operate without a draft model and trade log(Flops) to linearly reduce decoding steps. I’ll then show the practical challenges when applying speculative decoding in a real LLM serving environment (with continuous batching  and batch size &gt; 1). Contrary to expectations, under slightly higher request rates, speculative decoding often exacerbates latency issues rather than mitigate them. To address this challenge, I’ll present Dynamic Speculative Decoding (DSD), a new scheduling technique that dynamically modulates the propose length based on an objective that characterize the observed system load. I’ll show that DSD not only guarantees to reduce average request latency, but also adapts to various styles of speculatie decoding methods (draft model, self-speculation, tree-verification, etc.). <br /> <br /> Bio: <br /> Hao Zhang is an Assistant Professor in Halıcıoğlu Data Science Institute and the Department of Computer Science and Engineering at UC San Diego. Before joining UCSD, Hao was a postdoctoral researcher at UC Berkeley (2021 - 2023). Hao completed his Ph.D. in Computer Science at Carnegie Mellon University (2014 - 2020). During PhD, Hao took on leave and worked for the ML platform startup Petuum Inc (2016 - 2021). Hao&rsquo;s research interest is in the intersection area of machine learning and systems. Hao&rsquo;s past work includes Vicuna, FastChat, Alpa, vLLM, Poseidon, Petuum. Hao’s research has been recognized with the Jay Lepreau best paper award at OSDI’21 and an NVIDIA pioneer research award at NeurIPS’17. Hao also cofounded the company LMNet.ai (2023) which has joined Snowflake since November 2023, and the nonprofit LMSYS Org (2023) which maintains many popular open models, evaluation, and systems.</span>
             
               <br />
               <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
