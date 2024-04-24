@@ -124,7 +124,7 @@ It aims to bring together students and faculty at UChicago and external speakers
               <span class="speakers-company">UChicago</span>
             </td>
             <td class="schedule-description">
-              <span class="short-description">How AI transforms your research fields<br /><a href="https://docs.google.com/document/d/1wR3XYOIxu_oPZHvOPNSO_RhO977lKp-hpohJjd-dWbw/edit?usp=sharing">Meeting Summary</a></span>
+              <span class="short-description">How AI transforms your research fields<br /><a href="https://docs.google.com/document/d/1wR3XYOIxu_oPZHvOPNSO_RhO977lKp-hpohJjd-dWbw/edit?usp=sharing">Meeting summary</a></span>
             <span class="long-description" style="display: none;"></span>
             
             </td>
@@ -141,7 +141,7 @@ It aims to bring together students and faculty at UChicago and external speakers
               <span class="speakers-company">UChicago</span>
             </td>
             <td class="schedule-description">
-              <span class="short-description">How AI transforms your research fields <br /><a href="https://docs.google.com/document/d/1DgbiutGtbi-UjwlJbwvpUjMhhi9VD8p5EqrWzhw0qhk/edit?usp=sharing">Meeting Summary</a> <br />
+              <span class="short-description">How AI transforms your research fields <br /><a href="https://docs.google.com/document/d/1DgbiutGtbi-UjwlJbwvpUjMhhi9VD8p5EqrWzhw0qhk/edit?usp=sharing">Meeting summary</a> <br />
 <a href="https://docs.google.com/presentation/d/1J9Q6J9">Andrew&rsquo;s slides</a></span>
             <span class="long-description" style="display: none;"></span>
             
@@ -199,8 +199,28 @@ It aims to bring together students and faculty at UChicago and external speakers
               <span class="speakers-company">UCSD</span>
             </td>
             <td class="schedule-description">
-              <span class="short-description">Dynamic speculative decoding</span>
-            <span class="long-description" style="display: none;">Dynamic speculative decoding <br /> <br /> Abstract: <br /> Speculative decoding is a pivotal technique to reduce large language model inference latency, yet it faces two major challenges in practice: (1) the complexity to identify and deploy an appropriate draft model (2) its potential to slow down inference due to the nature of speculation. This talk covers two new techniques to fill these gaps. I’ll first discuss lookahead decoding, a new speculative decoding method that can operate without a draft model and trade log(Flops) to linearly reduce decoding steps. I’ll then show the practical challenges when applying speculative decoding in a real LLM serving environment (with continuous batching  and batch size &gt; 1). Contrary to expectations, under slightly higher request rates, speculative decoding often exacerbates latency issues rather than mitigate them. To address this challenge, I’ll present Dynamic Speculative Decoding (DSD), a new scheduling technique that dynamically modulates the propose length based on an objective that characterize the observed system load. I’ll show that DSD not only guarantees to reduce average request latency, but also adapts to various styles of speculatie decoding methods (draft model, self-speculation, tree-verification, etc.). <br /> <br /> Bio: <br /> Hao Zhang is an Assistant Professor in Halıcıoğlu Data Science Institute and the Department of Computer Science and Engineering at UC San Diego. Before joining UCSD, Hao was a postdoctoral researcher at UC Berkeley (2021 - 2023). Hao completed his Ph.D. in Computer Science at Carnegie Mellon University (2014 - 2020). During PhD, Hao took on leave and worked for the ML platform startup Petuum Inc (2016 - 2021). Hao&rsquo;s research interest is in the intersection area of machine learning and systems. Hao&rsquo;s past work includes Vicuna, FastChat, Alpa, vLLM, Poseidon, Petuum. Hao’s research has been recognized with the Jay Lepreau best paper award at OSDI’21 and an NVIDIA pioneer research award at NeurIPS’17. Hao also cofounded the company LMNet.ai (2023) which has joined Snowflake since November 2023, and the nonprofit LMSYS Org (2023) which maintains many popular open models, evaluation, and systems.</span>
+              <span class="short-description">Dynamic speculative decoding <br /> <a href="https://docs.google.com/document/d/1a4HRpc8YdVsUzY0n32x-6C_-nNuMpEUgSn5SuIgbTMw/edit?usp=sharing">Meeting summary</a> <br /> <a href="https://arxiv.org/pdf/2310.07177.pdf">Paper link</a></span>
+            <span class="long-description" style="display: none;">Dynamic speculative decoding <br /> <a href="https://docs.google.com/document/d/1a4HRpc8YdVsUzY0n32x-6C_-nNuMpEUgSn5SuIgbTMw/edit?usp=sharing">Meeting summary</a> <br /> <a href="https://arxiv.org/pdf/2310.07177.pdf">Paper link</a> <br /> <br /> Abstract: <br /> Speculative decoding is a pivotal technique to reduce large language model inference latency, yet it faces two major challenges in practice: (1) the complexity to identify and deploy an appropriate draft model (2) its potential to slow down inference due to the nature of speculation. This talk covers two new techniques to fill these gaps. I’ll first discuss lookahead decoding, a new speculative decoding method that can operate without a draft model and trade log(Flops) to linearly reduce decoding steps. I’ll then show the practical challenges when applying speculative decoding in a real LLM serving environment (with continuous batching  and batch size &gt; 1). Contrary to expectations, under slightly higher request rates, speculative decoding often exacerbates latency issues rather than mitigate them. To address this challenge, I’ll present Dynamic Speculative Decoding (DSD), a new scheduling technique that dynamically modulates the propose length based on an objective that characterize the observed system load. I’ll show that DSD not only guarantees to reduce average request latency, but also adapts to various styles of speculatie decoding methods (draft model, self-speculation, tree-verification, etc.). <br /> <br /> Bio: <br /> Hao Zhang is an Assistant Professor in Halıcıoğlu Data Science Institute and the Department of Computer Science and Engineering at UC San Diego. Before joining UCSD, Hao was a postdoctoral researcher at UC Berkeley (2021 - 2023). Hao completed his Ph.D. in Computer Science at Carnegie Mellon University (2014 - 2020). During PhD, Hao took on leave and worked for the ML platform startup Petuum Inc (2016 - 2021). Hao&rsquo;s research interest is in the intersection area of machine learning and systems. Hao&rsquo;s past work includes Vicuna, FastChat, Alpa, vLLM, Poseidon, Petuum. Hao’s research has been recognized with the Jay Lepreau best paper award at OSDI’21 and an NVIDIA pioneer research award at NeurIPS’17. Hao also cofounded the company LMNet.ai (2023) which has joined Snowflake since November 2023, and the nonprofit LMSYS Org (2023) which maintains many popular open models, evaluation, and systems.</span>
+            
+              <br />
+              <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
+            
+            </td>
+          </tr>
+        
+      
+        
+          <tr>
+            <td class="schedule-time">April 30</td>
+            <td class="schedule-slot">
+            
+
+              Ted Shaowang
+              <span class="speakers-company">UChicago</span>
+            </td>
+            <td class="schedule-description">
+              <span class="short-description">StreamServe: Low-Latency Model Serving over Distributed Data Streams</span>
+            <span class="long-description" style="display: none;">StreamServe: Low-Latency Model Serving over Distributed Data Streams <br /> <br /> Abstract: <br /> The relevant features for a machine learning task may arrive as one or more continuous streams of data. Serving machine learning models over streams of data creates a number of interesting systems challenges in managing data routing, rate control, and data-model co-optimization. This talk presents StreamServe, a distributed streaming system that can serve predictions from machine learning models in real time. As an example, I will walk through a high-bandwidth network traffic analysis task, where our system dynamically selects the number of packets to collect and the models to use for individual network flows. <br /> <br /> Bio: <br /> Ted Shaowang is a 5th-year PhD student at the Department of Computer Science of University of Chicago advised by Sanjay Krishnan. Ted&rsquo;s research interest is in the intersection area of streaming systems and machine learning model serving.</span>
             
               <br />
               <a class="toggle-description" style="cursor: pointer; color: #f0a303;">Read More</a>
