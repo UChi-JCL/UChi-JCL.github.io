@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3620678.3624788,
+author = {Cheng, Yihua and Zhang, Hui and Jiang, Junchen},
+title = {Online Profiling and Adaptation of Quality Sensitivity for Internet Video},
+year = {2023},
+isbn = {9798400703874},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3620678.3624788},
+doi = {10.1145/3620678.3624788},
+abstract = {A key to video streaming systems is knowing how sensitive quality of experience (QoE) is to quality metrics (e.g., buffering ratio and average bitrate). In the conventional wisdom, such quality sensitivity should be profiled by offline user studies because QoE is equally sensitive to quality metrics everywhere for an entire genre of videos. However, recent studies show that quality sensitivity varies substantially both across videos and within a video, giving rise to a new potential for improving QoE and serving more users without using more bandwidth. Unfortunately, offline profiling cannot capture the variability of quality sensitivity within a new video (e.g., a new TV show episode or live sports event), if users join to watch it within a short time window.This short paper makes a case for a new architecture that online profiles the quality sensitivity of a video by gathering and analyzing QoE-related feedback (e.g., exit or skip) from actual users, while the video is being streamed to users. The key component is a QoE-driven feedback loop, called SensitiFlow, run by video content providers to make adaptive-bitrate (ABR) decisions for concurrent and future video sessions. We evaluated QoE in user engagement (view time) using real traces of 7.6 million video sessions from a content provider. Our preliminary results show that SensitiFlow can realize up-to 80\% of the improvement obtained by a hypothetical "oracle" system that knows quality sensitivity in advance. Admittedly, our evaluation is not a real deployment by a large-scale commercial content provider, but we hope our preliminary results will inspire follow-up efforts to test similar ideas at scale.},
+booktitle = {Proceedings of the 2023 ACM Symposium on Cloud Computing},
+pages = {520–527},
+numpages = {8},
+keywords = {ABR, Video QoE},
+location = {<conf-loc>, <city>Santa Cruz</city>, <state>CA</state>, <country>USA</country>, </conf-loc>},
+series = {SoCC '23}
+}
