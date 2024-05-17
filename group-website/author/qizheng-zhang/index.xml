@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qizheng Zhang | Junchen&#39;s Lab</title>
-    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/qizheng-zhang/</link>
-      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/qizheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/qizheng-zhang/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/qizheng-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qizheng Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Qizheng Zhang</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/qizheng-zhang/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/qizheng-zhang/</link>
     </image>
     
     <item>
       <title>Automatic and Efficient Customization of Neural Networks for ML Applications</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/automl/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/automl/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/cachegen/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/cachegen/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -86,9 +86,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/oneadapt/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/oneadapt/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -113,9 +113,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>AccMPEG: Optimizing Video Encoding for Video Analytics</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

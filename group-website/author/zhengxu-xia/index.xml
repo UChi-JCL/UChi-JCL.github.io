@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengxu Xia | Junchen&#39;s Lab</title>
-    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhengxu-xia/</link>
-      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhengxu-xia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhengxu-xia/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhengxu-xia/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengxu Xia</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhengxu-xia/avatar_huc22d0b9faf230f708b0a5fcd83b3e45c_45449_270x270_fill_q75_lanczos_center.JPG</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhengxu-xia/avatar_huc22d0b9faf230f708b0a5fcd83b3e45c_45449_270x270_fill_q75_lanczos_center.JPG</url>
       <title>Zhengxu Xia</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhengxu-xia/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhengxu-xia/</link>
     </image>
     
     <item>
       <title>AccMPEG: Optimizing Video Encoding for Video Analytics</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Automatic Curriculum Generation for Learning Adaptation in Networking</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/genet/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/genet/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/genet/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/genet/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
