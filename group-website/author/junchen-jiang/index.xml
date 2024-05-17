@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junchen Jiang | Junchen&#39;s Lab</title>
-    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/junchen-jiang/</link>
-      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/junchen-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/junchen-jiang/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/junchen-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Junchen Jiang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/author/junchen-jiang/avatar_hu8997f281d959c15505ca7c09ff2b3085_50349_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/junchen-jiang/avatar_hu8997f281d959c15505ca7c09ff2b3085_50349_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Junchen Jiang</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/junchen-jiang/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/junchen-jiang/</link>
     </image>
     
     <item>
       <title>Automatic and Efficient Customization of Neural Networks for ML Applications</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/automl/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/automl/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/cachegen/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/cachegen/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -86,9 +86,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/earthplus/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/earthplus/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/earthplus/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/earthplus/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -104,9 +104,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/chatterbox/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/chatterbox/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/chatterbox/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/chatterbox/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>VidPlat: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/vidplat/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/vidplat/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/vidplat/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/vidplat/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -140,9 +140,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Enabling Perception-Driven Optimization in Networking</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/perception/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/perception/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/perception/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/perception/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -167,9 +167,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/oneadapt/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/oneadapt/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -194,9 +194,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Online Profiling and Adaptation of Quality Sensitivity for Internet Video</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/onlineprofile/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/onlineprofile/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/onlineprofile/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/onlineprofile/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -221,9 +221,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Run-Time Prevention of Software Integration Failures of Machine Learning APIs</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/runtimeml/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/runtimeml/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/runtimeml/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/runtimeml/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -248,9 +248,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/timeline/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/timeline/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/timeline/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/timeline/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -275,9 +275,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>AccMPEG: Optimizing Video Encoding for Video Analytics</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/accmpeg/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -302,9 +302,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Automatic Curriculum Generation for Learning Adaptation in Networking</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/genet/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/genet/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/genet/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/genet/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -329,9 +329,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/sensei/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/sensei/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/sensei/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/sensei/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

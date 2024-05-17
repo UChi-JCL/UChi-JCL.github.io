@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhuohan Gu | Junchen&#39;s Lab</title>
-    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhuohan-gu/</link>
-      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhuohan-gu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhuohan-gu/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhuohan-gu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhuohan Gu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhuohan-gu/avatar_hue88569ff0f3135fbff5f302c4dd7b004_1162920_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhuohan-gu/avatar_hue88569ff0f3135fbff5f302c4dd7b004_1162920_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zhuohan Gu</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/zhuohan-gu/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/zhuohan-gu/</link>
     </image>
     
   </channel>

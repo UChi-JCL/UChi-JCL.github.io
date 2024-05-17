@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://github.com/UChi-JCL/UChi-JCL.github.io/sitemap.xml
+Sitemap: https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/sitemap.xml

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Feamster | Junchen&#39;s Lab</title>
-    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/nick-feamster/</link>
-      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/nick-feamster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/nick-feamster/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/nick-feamster/index.xml" rel="self" type="application/rss+xml" />
     <description>Nick Feamster</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Nick Feamster</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/nick-feamster/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/author/nick-feamster/</link>
     </image>
     
     <item>
       <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/grace/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>VidPlat: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements</title>
-      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/vidplat/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/vidplat/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/vidplat/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/group-website/publication/vidplat/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
