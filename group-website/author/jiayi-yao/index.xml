@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiayi Yao | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/author/jiayi-yao/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/author/jiayi-yao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/jiayi-yao/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/jiayi-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayi Yao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/author/jiayi-yao/avatar_hu149c8e988b93d5ff462b0de3f4e6d45a_435696_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/author/jiayi-yao/avatar_hu149c8e988b93d5ff462b0de3f4e6d45a_435696_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiayi Yao</title>
-      <link>https://JCL-group-website.github.io/group_website/author/jiayi-yao/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/jiayi-yao/</link>
     </image>
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/cachegen/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/cachegen/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

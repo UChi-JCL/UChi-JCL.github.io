@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/post/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://JCL-group-website.github.io/group_website/post/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/</link>
     </image>
     
     <item>
       <title>Grace: Loss-Resilient Real-Time Video through Neural Codecs accepted at NSDI&#39;24.
 </title>
-      <link>https://JCL-group-website.github.io/group_website/post/grace_nsdi/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/grace_nsdi/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/post/grace_nsdi/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/post/grace_nsdi/</guid>
       <description>&lt;p&gt;Congratulations to Yihua Cheng et al.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Automatic and Efficient Customization of Neural Networks for ML Applications accecpted at OSDI&#39;24.</title>
-      <link>https://JCL-group-website.github.io/group_website/post/automl_osdi/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/automl_osdi/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/post/automl_osdi/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/post/automl_osdi/</guid>
       <description>&lt;p&gt;Congratulations to Yuhan et al.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation accepted at SoCC&#39;23.
 </title>
-      <link>https://JCL-group-website.github.io/group_website/post/one_adapt_socc/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/one_adapt_socc/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/post/one_adapt_socc/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/post/one_adapt_socc/</guid>
       <description>&lt;p&gt;Congratulations to Kuntai et al.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Online Profiling and Adaptation of Quality Sensitivity for Internet Video accepted at SoCC&#39;23.
 </title>
-      <link>https://JCL-group-website.github.io/group_website/post/online_prof_socc/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/online_prof_socc/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/post/online_prof_socc/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/post/online_prof_socc/</guid>
       <description>&lt;p&gt;Congratulations to Yihua et al.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kuntai Du named as Siebel Scholar for the class of &#39;24.
 </title>
-      <link>https://JCL-group-website.github.io/group_website/post/kuntai_siebel/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/post/kuntai_siebel/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/post/kuntai_siebel/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/post/kuntai_siebel/</guid>
       <description>&lt;p&gt;The Siebel Scholars program awards grants to 16 universities in the United States, China, France, Italy and Japan. Following a competitive review process by the deans of their respective schools on the basis of outstanding academic achievement and demonstrated leadership, the top graduate students from 27 partner programs are selected each year as Siebel Scholars and receive a $35,000 award for their final year of studies. On average, Siebel Scholars rank in the top five percent of their class, many within the top one percent.&lt;/p&gt;
 &lt;p&gt;Congratulations Kuntai!&lt;/p&gt;</description>
     </item>
