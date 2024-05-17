@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/projects/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://JCL-group-website.github.io/group_website/projects/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/</link>
     </image>
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving
 </title>
-      <link>https://JCL-group-website.github.io/group_website/projects/cachegen/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/cachegen/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/projects/cachegen/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/cachegen/</guid>
       <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; As large language models (LLMs) take on complex tasks, their inputs are supplemented with longer contexts that incorporate domain knowledge or user-specific information. Yet using long contexts poses a challenge for responsive LLM systems, as nothing can be generated until the whole context is processed by the LLM. While the context-processing delay can be reduced by reusing the KV cache of a context across different inputs, fetching the KV cache, which contains large tensors, over the network can cause extra network delays.
 CacheGen is a fast context-loading module for LLM systems. First, CacheGen uses a custom tensor encoder, which embraces KV cache&#39;s distributional properties, to encode a KV cache into more compact bitstream representations with negligible encoding/decoding overhead. This reduces the bandwidth demand to fetch the KV cache. Second, to maintain low context-loading delay and high generation quality, CacheGen adapts the streaming strategies to cope with changes in available bandwidth. When available bandwidth drops, CacheGen may raise the compression level for a part of the context or choose to recompute its KV cache on the fly. We test CacheGen on four popular LLMs of various sizes and four datasets (662 contexts in total). Compared to the recent systems that reuse the KV cache, CacheGen reduces the KV cache size by 3.7-4.3x and the total delay in fetching and processing contexts by 2.7-3.2x while having negligible impact on the LLM response quality in accuracy or perplexity. &lt;/p&gt;</description>
     </item>
@@ -25,9 +25,9 @@ CacheGen is a fast context-loading module for LLM systems. First, CacheGen uses 
     <item>
       <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations
 </title>
-      <link>https://JCL-group-website.github.io/group_website/projects/earthplus/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/earthplus/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/projects/earthplus/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/earthplus/</guid>
       <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Satellite imagery is useful for a wide range of applications, from automatic road detection to forest monitoring. But did you know only 2% of satellite images can actually be downloaded to the ground? To help satellites download more images, we&#39;ve noticed that the same locations is frequently captured by different satellites and the captured images can be quite similar. By using this similarity, we can squeeze satellite images down to 3x smaller. &lt;/p&gt;
 &lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt;
 With the increasing deployment of earth observation satellite constellations, the downlink (satellite-to-ground) capacity often limits the freshness, quality, and coverage of the imagery data available to applications on the ground. To overcome the downlink limitation, we present Earth+, a new satellite imagery compression system that, instead of compressing each image individually, pinpoints and downloads only recent imagery changes with respect to the history reference images. To minimize the amount of changes, it is critical to make reference images as fresh as possible. Earth+ enables each satellite to choose fresh reference images from not only its own history images but also past images of other satellites from an entire satellite constellation. To share reference images across satellites, Earth+ utilizes the limited capacity of the existing uplink (ground-to-satellite) by judiciously selecting and compressing reference images while still allowing accurate change detection. In short, Earth+ is the first to make reference-based compression efficient, by enabling constellation-wide sharing of fresh reference images across satellites. Our evaluation shows that Earth+ can reduce the downlink usage by a factor of 3.3 compared to state-of-the-art on-board image compression techniques while not sacrificing image quality, or using more on-board computing or storage resources, or more uplink bandwidth than currently available. &lt;/p&gt;</description>
@@ -36,9 +36,9 @@ With the increasing deployment of earth observation satellite constellations, th
     <item>
       <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs
 </title>
-      <link>https://JCL-group-website.github.io/group_website/projects/grace/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/grace/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/projects/grace/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/projects/grace/</guid>
       <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; In real-time video communication, retransmitting lost packets over high-latency networks is not viable due to strict latency requirements. To counter packet losses without retransmission, two primary strategies are employed -- encoder-based forward error correction (FEC) and decoder-based error concealment. The former encodes data with redundancy before transmission, yet determining the optimal redundancy level in advance proves challenging. The latter reconstructs video from partially received frames, but dividing a frame into independently coded partitions inherently compromises compression efficiency, and the lost information cannot be effectively recovered by the decoder without adapting the encoder. We present a loss-resilient real-time video system called GRACE, which preserves the user&#39;s quality of experience (QoE) across a wide range of packet losses through a new neural video codec. Central to GRACE&#39;s enhanced loss resilience is its joint training of the neural encoder and decoder under a spectrum of simulated packet losses. In lossless scenarios, GRACE achieves video quality on par with conventional codecs (e.g., H.265). As the loss rate escalates, GRACE exhibits a more graceful, less pronounced decline in quality, consistently outperforming other loss-resilient schemes. Through extensive evaluation on various videos and real network traces, we demonstrate that GRACE reduces undecodable frames by 95% and stall duration by 90% compared with FEC, while markedly boosting video quality over error concealment methods. In a user study with 240 crowdsourced participants and 960 subjective ratings, GRACE registers a 38% higher mean opinion score (MOS) than other baselines. &lt;/p&gt;</description>
     </item>
     

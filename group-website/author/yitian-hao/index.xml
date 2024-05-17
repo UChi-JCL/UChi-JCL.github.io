@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yitian Hao | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/author/yitian-hao/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/author/yitian-hao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/yitian-hao/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/yitian-hao/index.xml" rel="self" type="application/rss+xml" />
     <description>Yitian Hao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Yitian Hao</title>
-      <link>https://JCL-group-website.github.io/group_website/author/yitian-hao/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/yitian-hao/</link>
     </image>
     
     <item>
       <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/oneadapt/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/oneadapt/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

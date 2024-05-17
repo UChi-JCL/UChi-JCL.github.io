@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Events | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/event/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/event/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
-      <link>https://JCL-group-website.github.io/group_website/event/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/event/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>https://JCL-group-website.github.io/group_website/event/example/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/event/example/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;

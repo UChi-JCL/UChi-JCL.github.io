@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kuntai Du | Junchen&#39;s Lab</title>
-    <link>https://JCL-group-website.github.io/group_website/author/kuntai-du/</link>
-      <atom:link href="https://JCL-group-website.github.io/group_website/author/kuntai-du/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/kuntai-du/</link>
+      <atom:link href="https://github.com/UChi-JCL/UChi-JCL.github.io/author/kuntai-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Kuntai Du</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://JCL-group-website.github.io/group_website/author/kuntai-du/avatar_hu7fba9da1679ce4a56c592454604cb9c1_160681_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://github.com/UChi-JCL/UChi-JCL.github.io/author/kuntai-du/avatar_hu7fba9da1679ce4a56c592454604cb9c1_160681_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Kuntai Du</title>
-      <link>https://JCL-group-website.github.io/group_website/author/kuntai-du/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/author/kuntai-du/</link>
     </image>
     
     <item>
       <title>Automatic and Efficient Customization of Neural Networks for ML Applications</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/automl/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/automl/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/automl/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/grace/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/grace/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/grace/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/cachegen/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/cachegen/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/cachegen/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -86,9 +86,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/earthplus/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/earthplus/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/earthplus/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/earthplus/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -104,9 +104,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/chatterbox/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/chatterbox/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/chatterbox/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/chatterbox/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/oneadapt/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/oneadapt/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/oneadapt/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -149,9 +149,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Run-Time Prevention of Software Integration Failures of Machine Learning APIs</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/runtimeml/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/runtimeml/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/runtimeml/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/runtimeml/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -176,9 +176,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>AccMPEG: Optimizing Video Encoding for Video Analytics</title>
-      <link>https://JCL-group-website.github.io/group_website/publication/accmpeg/</link>
+      <link>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://JCL-group-website.github.io/group_website/publication/accmpeg/</guid>
+      <guid>https://github.com/UChi-JCL/UChi-JCL.github.io/publication/accmpeg/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
