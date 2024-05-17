@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junchen&#39;s Lab</title>
+    <link>https://JCL-group-website.github.io/group_website/</link>
+      <atom:link href="https://JCL-group-website.github.io/group_website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junchen&#39;s Lab</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JCL-group-website.github.io/group_website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
+      <title>Junchen&#39;s Lab</title>
+      <link>https://JCL-group-website.github.io/group_website/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://JCL-group-website.github.io/group_website/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic and Efficient Customization of Neural Networks for ML Applications</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/automl/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/automl/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/grace/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/grace/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/cachegen/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/cachegen/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/earthplus/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/earthplus/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grace: Loss-Resilient Real-Time Video through Neural Codecs accepted at NSDI&#39;24.
+</title>
+      <link>https://JCL-group-website.github.io/group_website/post/grace_nsdi/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/post/grace_nsdi/</guid>
+      <description>&lt;p&gt;Congratulations to Yihua Cheng et al.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving
+</title>
+      <link>https://JCL-group-website.github.io/group_website/projects/cachegen/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/projects/cachegen/</guid>
+      <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; As large language models (LLMs) take on complex tasks, their inputs are supplemented with longer contexts that incorporate domain knowledge or user-specific information. Yet using long contexts poses a challenge for responsive LLM systems, as nothing can be generated until the whole context is processed by the LLM. While the context-processing delay can be reduced by reusing the KV cache of a context across different inputs, fetching the KV cache, which contains large tensors, over the network can cause extra network delays.
+CacheGen is a fast context-loading module for LLM systems. First, CacheGen uses a custom tensor encoder, which embraces KV cache&#39;s distributional properties, to encode a KV cache into more compact bitstream representations with negligible encoding/decoding overhead. This reduces the bandwidth demand to fetch the KV cache. Second, to maintain low context-loading delay and high generation quality, CacheGen adapts the streaming strategies to cope with changes in available bandwidth. When available bandwidth drops, CacheGen may raise the compression level for a part of the context or choose to recompute its KV cache on the fly. We test CacheGen on four popular LLMs of various sizes and four datasets (662 contexts in total). Compared to the recent systems that reuse the KV cache, CacheGen reduces the KV cache size by 3.7-4.3x and the total delay in fetching and processing contexts by 2.7-3.2x while having negligible impact on the LLM response quality in accuracy or perplexity. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations
+</title>
+      <link>https://JCL-group-website.github.io/group_website/projects/earthplus/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/projects/earthplus/</guid>
+      <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Satellite imagery is useful for a wide range of applications, from automatic road detection to forest monitoring. But did you know only 2% of satellite images can actually be downloaded to the ground? To help satellites download more images, we&#39;ve noticed that the same locations is frequently captured by different satellites and the captured images can be quite similar. By using this similarity, we can squeeze satellite images down to 3x smaller. &lt;/p&gt;
+&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt;
+With the increasing deployment of earth observation satellite constellations, the downlink (satellite-to-ground) capacity often limits the freshness, quality, and coverage of the imagery data available to applications on the ground. To overcome the downlink limitation, we present Earth+, a new satellite imagery compression system that, instead of compressing each image individually, pinpoints and downloads only recent imagery changes with respect to the history reference images. To minimize the amount of changes, it is critical to make reference images as fresh as possible. Earth+ enables each satellite to choose fresh reference images from not only its own history images but also past images of other satellites from an entire satellite constellation. To share reference images across satellites, Earth+ utilizes the limited capacity of the existing uplink (ground-to-satellite) by judiciously selecting and compressing reference images while still allowing accurate change detection. In short, Earth+ is the first to make reference-based compression efficient, by enabling constellation-wide sharing of fresh reference images across satellites. Our evaluation shows that Earth+ can reduce the downlink usage by a factor of 3.3 compared to state-of-the-art on-board image compression techniques while not sacrificing image quality, or using more on-board computing or storage resources, or more uplink bandwidth than currently available. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/chatterbox/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/chatterbox/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic and Efficient Customization of Neural Networks for ML Applications accecpted at OSDI&#39;24.</title>
+      <link>https://JCL-group-website.github.io/group_website/post/automl_osdi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/post/automl_osdi/</guid>
+      <description>&lt;p&gt;Congratulations to Yuhan et al.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GRACE: Loss-Resilient Real-Time Video through Neural Codecs
+</title>
+      <link>https://JCL-group-website.github.io/group_website/projects/grace/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/projects/grace/</guid>
+      <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; In real-time video communication, retransmitting lost packets over high-latency networks is not viable due to strict latency requirements. To counter packet losses without retransmission, two primary strategies are employed -- encoder-based forward error correction (FEC) and decoder-based error concealment. The former encodes data with redundancy before transmission, yet determining the optimal redundancy level in advance proves challenging. The latter reconstructs video from partially received frames, but dividing a frame into independently coded partitions inherently compromises compression efficiency, and the lost information cannot be effectively recovered by the decoder without adapting the encoder. We present a loss-resilient real-time video system called GRACE, which preserves the user&#39;s quality of experience (QoE) across a wide range of packet losses through a new neural video codec. Central to GRACE&#39;s enhanced loss resilience is its joint training of the neural encoder and decoder under a spectrum of simulated packet losses. In lossless scenarios, GRACE achieves video quality on par with conventional codecs (e.g., H.265). As the loss rate escalates, GRACE exhibits a more graceful, less pronounced decline in quality, consistently outperforming other loss-resilient schemes. Through extensive evaluation on various videos and real network traces, we demonstrate that GRACE reduces undecodable frames by 95% and stall duration by 90% compared with FEC, while markedly boosting video quality over error concealment methods. In a user study with 240 crowdsourced participants and 960 subjective ratings, GRACE registers a 38% higher mean opinion score (MOS) than other baselines. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation accepted at SoCC&#39;23.
+</title>
+      <link>https://JCL-group-website.github.io/group_website/post/one_adapt_socc/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/post/one_adapt_socc/</guid>
+      <description>&lt;p&gt;Congratulations to Kuntai et al.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Online Profiling and Adaptation of Quality Sensitivity for Internet Video accepted at SoCC&#39;23.
+</title>
+      <link>https://JCL-group-website.github.io/group_website/post/online_prof_socc/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/post/online_prof_socc/</guid>
+      <description>&lt;p&gt;Congratulations to Yihua et al.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VidPlat: A Tool for Fast Crowdsourcing of Quality-of-Experience Measurements</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/vidplat/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/vidplat/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enabling Perception-Driven Optimization in Networking</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/perception/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/perception/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kuntai Du named as Siebel Scholar for the class of &#39;24.
+</title>
+      <link>https://JCL-group-website.github.io/group_website/post/kuntai_siebel/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/post/kuntai_siebel/</guid>
+      <description>&lt;p&gt;The Siebel Scholars program awards grants to 16 universities in the United States, China, France, Italy and Japan. Following a competitive review process by the deans of their respective schools on the basis of outstanding academic achievement and demonstrated leadership, the top graduate students from 27 partner programs are selected each year as Siebel Scholars and receive a $35,000 award for their final year of studies. On average, Siebel Scholars rank in the top five percent of their class, many within the top one percent.&lt;/p&gt;
+&lt;p&gt;Congratulations Kuntai!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/oneadapt/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/oneadapt/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Profiling and Adaptation of Quality Sensitivity for Internet Video</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/onlineprofile/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/onlineprofile/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Run-Time Prevention of Software Integration Failures of Machine Learning APIs</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/runtimeml/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/runtimeml/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/timeline/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/timeline/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://JCL-group-website.github.io/group_website/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://JCL-group-website.github.io/group_website/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AccMPEG: Optimizing Video Encoding for Video Analytics</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/accmpeg/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/accmpeg/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Curriculum Generation for Learning Adaptation in Networking</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/genet/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/genet/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity</title>
+      <link>https://JCL-group-website.github.io/group_website/publication/sensei/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/publication/sensei/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://JCL-group-website.github.io/group_website/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JCL-group-website.github.io/group_website/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

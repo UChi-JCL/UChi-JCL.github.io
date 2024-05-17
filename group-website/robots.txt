@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://JCL-group-website.github.io/group_website/sitemap.xml
