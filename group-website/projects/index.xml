@@ -5,12 +5,32 @@
     <link>https://uchi-jcl.github.io/group-website/projects/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://uchi-jcl.github.io/group-website/projects/</link>
     </image>
+    
+    <item>
+      <title>Using Cached Knowledge for Large Language Model Serving with CacheFuse
+</title>
+      <link>https://uchi-jcl.github.io/group-website/projects/cachefuse/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/projects/cachefuse/</guid>
+      <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Large language models (LLMs) often incorporate multiple text chunks in their inputs to provide the necessary contexts. To speed up the prefill of the long LLM inputs, one can pre-compute the KV cache of a text and re-use the KV cache when the context is reused as the prefix of another LLM input. However, the reused text chunks are not always the input prefix, and when they are not, their precomputed KV caches cannot be directly used since they ignore the text’s cross- attention with the preceding text in the LLM input. Thus, the benefits of reusing KV caches remain largely unrealized.
+&lt;p&gt;This project tackles just one question: when an LLM input contains multiple text chunks, how to quickly combine their precomputed KV caches in order to achieve the same genera- tion quality as the expensive full prefill (i.e., without reusing KV cache)? We present CacheFuse, a scheme that reuses the pre-computed KV caches, regardless prefix or not, and selectively recomputes the KV values of a small subset of tokens to partially update each reused KV cache. In the meantime, the small extra delay for recomputing some tokens can be pipelined with the retrieval of KV caches within the same job, allowing CacheFuse to store KV caches in slower devices with more storage capacity while retrieving them without increasing the inference delay. By comparing CacheFuse with the state-of-the-art KV cache reusing schemes on three open-source LLMs of various sizes and four popular bench- mark datasets of different tasks, we show that CacheFuse reduces time-to-first-token (TTFT) by 2.2–3.3× and increases the inference throughput by 2.8-5×, compared with full KV recompute, without compromising generation quality or incurring more storage cost. &lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resource allocation for Multi-Tenant Retrieval Augmented Generation Systems 
+</title>
+      <link>https://uchi-jcl.github.io/group-website/projects/ragoptimization/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/projects/ragoptimization/</guid>
+      <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Retrieval Augmented Generation (RAG) is the recent state-of-the art paradigm which lets Large Language Models (LLMs) generalise to text generation tasks in new domains, for which they have not been trained. Traditionally, this generalisation was achieved by fine-tuning the LLM on a small amount of in-domain data, which is slow and expensive, as compared to RAG.
+&lt;p&gt;RAG today focuses on two key ideas information retrieval or how to fetch the relevant chunks to answer the LLM query and synthesis or how to combine the chunks for the LLM to process efficiently. In this paper, we show how the choice of configurations can have a significant trade-off between generation quality and system resource utilization in the synthesis section of the RAG pipeline. We conduct a preliminary measurement study to show how different configurations can yield the an optimal method for combining the retrieved documents to obtain the best performance in terms of output quality and output latency, while also measuring the effect of the trade-offs in choosing one dimension over the other. &lt;/p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving
