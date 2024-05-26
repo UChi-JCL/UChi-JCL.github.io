@@ -28,6 +28,19 @@
     </item>
     
     <item>
+      <title>Junchen&#39; talk on the llm caching layer at Databricks and Alluxio’s AI/ML Infra meetup.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/junchen_databricks/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/junchen_databricks/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; Prefill in LLM inference is known to be resource-intensive, especially for long LLM inputs. While better scheduling can mitigate prefill’s impact, it would be fundamentally better to avoid (most of) prefill. This talk introduces our preliminary effort towards drastically minimizing prefill delay for LLM inputs that naturally reuse text chunks, such as in retrieval-augmented generation. While keeping the KV cache of all text chunks in memory is difficult, we show that it is possible to store them on cheaper yet slower storage. By improving the loading process of the reused KV caches, we can still significantly speed up prefill delay while maintaining the same generation quality. &lt;/.p&gt;
+&lt;p&gt;Talk link :&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/a5YH2RCe4NU?si=7hRisB8JXXl19grx&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Slides link :&lt;/p&gt;
+&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/eOSyDpGElSFWvB&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/slideshow/ai-ml-infra-meetup-reducing-prefill-for-llm-serving-in-rag/269308079&#34; title=&#34;&#34; target=&#34;_blank&#34;&gt;AI/ML Infra Meetup | Reducing Prefill for LLM Serving in RAG&lt;/a&gt; &lt;/strong&gt; &lt;/strong&gt; &lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Using Cached Knowledge for Large Language Model Serving with CacheFuse
 </title>
       <link>https://uchi-jcl.github.io/group-website/projects/cachefuse/</link>
@@ -35,6 +48,25 @@
       <guid>https://uchi-jcl.github.io/group-website/projects/cachefuse/</guid>
       <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Large language models (LLMs) often incorporate multiple text chunks in their inputs to provide the necessary contexts. To speed up the prefill of the long LLM inputs, one can pre-compute the KV cache of a text and re-use the KV cache when the context is reused as the prefix of another LLM input. However, the reused text chunks are not always the input prefix, and when they are not, their precomputed KV caches cannot be directly used since they ignore the text’s cross- attention with the preceding text in the LLM input. Thus, the benefits of reusing KV caches remain largely unrealized.
 &lt;p&gt;This project tackles just one question: when an LLM input contains multiple text chunks, how to quickly combine their precomputed KV caches in order to achieve the same genera- tion quality as the expensive full prefill (i.e., without reusing KV cache)? We present CacheFuse, a scheme that reuses the pre-computed KV caches, regardless prefix or not, and selectively recomputes the KV values of a small subset of tokens to partially update each reused KV cache. In the meantime, the small extra delay for recomputing some tokens can be pipelined with the retrieval of KV caches within the same job, allowing CacheFuse to store KV caches in slower devices with more storage capacity while retrieving them without increasing the inference delay. By comparing CacheFuse with the state-of-the-art KV cache reusing schemes on three open-source LLMs of various sizes and four popular bench- mark datasets of different tasks, we show that CacheFuse reduces time-to-first-token (TTFT) by 2.2–3.3× and increases the inference throughput by 2.8-5×, compared with full KV recompute, without compromising generation quality or incurring more storage cost. &lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kuntai Du starts his internship at Sky Computing Lab at Berkeley.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/kuntai_sky/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/kuntai_sky/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; The &lt;a href=&#34;https://sky.cs.berkeley.edu/&#34; &gt;Sky Computing Lab &lt;/a&gt; represents the next chapter of data-intensive systems research at Berkeley. Recent years have seen the explosion of cloud computing. Applications are moving their data and computation to the cloud; on-premise services are dying. In doing so, companies have to make difficult choices between the myriad of cloud providers, each with different services or hardware. Lock-in, whether through artificial migration costs, legal constraints or engineering baggage is real. In the Sky Computing Lab, we will leverage distributed systems, programming languages, security, and machine learning to decouple the services that a company wants to implement from the choice of a specific cloud.&lt;/p&gt;
+&lt;p&gt;Congratulations Kuntai!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving accepted at SIGCOMM&#39;24.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/cachegen_sigcomm/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/cachegen_sigcomm/</guid>
+      <description>&lt;p&gt;Congratulations to Yuhan et al.&lt;/p&gt;</description>
     </item>
     
     <item>
