@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 26, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -300,9 +300,6 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-
-  <meta property="twitter:site" content="@GetResearchDev" />
-  <meta property="twitter:creator" content="@GetResearchDev" />
 <meta property="twitter:image" content="https://uchi-jcl.github.io/group-website/projects/cachegen/featured.png" />
 
 
@@ -778,8 +775,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p style="font-size:18px" align="justify"> As large language models (LLMs) take on complex tasks, their inputs are supplemented with longer contexts that incorporate domain knowledge or user-specific information. Yet using long contexts poses a challenge for responsive LLM systems, as nothing can be generated until the whole context is processed by the LLM. While the context-processing delay can be reduced by reusing the KV cache of a context across different inputs, fetching the KV cache, which contains large tensors, over the network can cause extra network delays.
-CacheGen is a fast context-loading module for LLM systems. First, CacheGen uses a custom tensor encoder, which embraces KV cache's distributional properties, to encode a KV cache into more compact bitstream representations with negligible encoding/decoding overhead. This reduces the bandwidth demand to fetch the KV cache. Second, to maintain low context-loading delay and high generation quality, CacheGen adapts the streaming strategies to cope with changes in available bandwidth. When available bandwidth drops, CacheGen may raise the compression level for a part of the context or choose to recompute its KV cache on the fly. We test CacheGen on four popular LLMs of various sizes and four datasets (662 contexts in total). Compared to the recent systems that reuse the KV cache, CacheGen reduces the KV cache size by 3.7-4.3x and the total delay in fetching and processing contexts by 2.7-3.2x while having negligible impact on the LLM response quality in accuracy or perplexity. </p>
+      <p style="font-size:18px" align="justify"> As large language models (LLMs) take on complex tasks, their inputs are supplemented with longer contexts that incorporate domain knowledge or user-specific information. Yet using long contexts poses a challenge for responsive LLM systems, as nothing can be generated until the whole context is processed by the LLM. While the context-processing delay can be reduced by reusing the KV cache of a context across different inputs, fetching the KV cache, which contains large tensors, over the network can cause extra network delays. </p>
+<p style="font-size:18px" align="justify"> CacheGen is a fast context-loading module for LLM systems. First, CacheGen uses a custom tensor encoder, which embraces KV cache's distributional properties, to encode a KV cache into more compact bitstream representations with negligible encoding/decoding overhead. This reduces the bandwidth demand to fetch the KV cache. Second, to maintain low context-loading delay and high generation quality, CacheGen adapts the streaming strategies to cope with changes in available bandwidth. When available bandwidth drops, CacheGen may raise the compression level for a part of the context or choose to recompute its KV cache on the fly. We test CacheGen on four popular LLMs of various sizes and four datasets (662 contexts in total). Compared to the recent systems that reuse the KV cache, CacheGen reduces the KV cache size by 3.7-4.3x and the total delay in fetching and processing contexts by 2.7-3.2x while having negligible impact on the LLM response quality in accuracy or perplexity. </p>
     </div>
 
     
