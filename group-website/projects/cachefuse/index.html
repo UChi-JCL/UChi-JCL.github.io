@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: May 26, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -300,9 +300,6 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-
-  <meta property="twitter:site" content="@GetResearchDev" />
-  <meta property="twitter:creator" content="@GetResearchDev" />
 <meta property="twitter:image" content="https://uchi-jcl.github.io/group-website/projects/cachefuse/featured.png" />
 
 
@@ -778,8 +775,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p style="font-size:18px" align="justify"> Large language models (LLMs) often incorporate multiple text chunks in their inputs to provide the necessary contexts. To speed up the prefill of the long LLM inputs, one can pre-compute the KV cache of a text and re-use the KV cache when the context is reused as the prefix of another LLM input. However, the reused text chunks are not always the input prefix, and when they are not, their precomputed KV caches cannot be directly used since they ignore the text’s cross- attention with the preceding text in the LLM input. Thus, the benefits of reusing KV caches remain largely unrealized.
-<p>This project tackles just one question: when an LLM input contains multiple text chunks, how to quickly combine their precomputed KV caches in order to achieve the same genera- tion quality as the expensive full prefill (i.e., without reusing KV cache)? We present CacheFuse, a scheme that reuses the pre-computed KV caches, regardless prefix or not, and selectively recomputes the KV values of a small subset of tokens to partially update each reused KV cache. In the meantime, the small extra delay for recomputing some tokens can be pipelined with the retrieval of KV caches within the same job, allowing CacheFuse to store KV caches in slower devices with more storage capacity while retrieving them without increasing the inference delay. By comparing CacheFuse with the state-of-the-art KV cache reusing schemes on three open-source LLMs of various sizes and four popular bench- mark datasets of different tasks, we show that CacheFuse reduces time-to-first-token (TTFT) by 2.2–3.3× and increases the inference throughput by 2.8-5×, compared with full KV recompute, without compromising generation quality or incurring more storage cost. </p></p>
+      <p style="font-size:18px" align="justify"> Large language models (LLMs) often incorporate multiple text chunks in their inputs to provide the necessary contexts. To speed up the prefill of the long LLM inputs, one can pre-compute the KV cache of a text and re-use the KV cache when the context is reused as the prefix of another LLM input. However, the reused text chunks are not always the input prefix, and when they are not, their precomputed KV caches cannot be directly used since they ignore the text’s cross- attention with the preceding text in the LLM input. Thus, the benefits of reusing KV caches remain largely unrealized. </p>
+<p style="font-size:18px" align="justify"> This project tackles just one question: when an LLM input contains multiple text chunks, how to quickly combine their precomputed KV caches in order to achieve the same genera- tion quality as the expensive full prefill (i.e., without reusing KV cache)? We present CacheFuse, a scheme that reuses the pre-computed KV caches, regardless prefix or not, and selectively recomputes the KV values of a small subset of tokens to partially update each reused KV cache. In the meantime, the small extra delay for recomputing some tokens can be pipelined with the retrieval of KV caches within the same job, allowing CacheFuse to store KV caches in slower devices with more storage capacity while retrieving them without increasing the inference delay. By comparing CacheFuse with the state-of-the-art KV cache reusing schemes on three open-source LLMs of various sizes and four popular bench- mark datasets of different tasks, we show that CacheFuse reduces time-to-first-token (TTFT) by 2.2–3.3× and increases the inference throughput by 2.8-5×, compared with full KV recompute, without compromising generation quality or incurring more storage cost. </p>
     </div>
 
     
