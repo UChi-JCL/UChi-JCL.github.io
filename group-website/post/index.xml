@@ -5,12 +5,53 @@
     <link>https://uchi-jcl.github.io/group-website/post/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://uchi-jcl.github.io/group-website/post/</link>
     </image>
+    
+    <item>
+      <title>Zhengxu Xia successfully completes his PhD candidacy exam at UChicago.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/zhengxu_cand/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/zhengxu_cand/</guid>
+      <description>&lt;p&gt;Congratulations Zhengxu!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yihua Cheng starts his internship at Conviva.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yihua_conv/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yihua_conv/</guid>
+      <description>&lt;p&gt;Congratulations Yihua!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion out on ArXiv.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/cacheblend/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/cacheblend/</guid>
+      <description>&lt;p&gt;Check out the paper for more details : &lt;a href=&#34;https://arxiv.org/abs/2405.16444&#34;&gt; Paper &lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu starts her internship at Microsoft Research.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_msr/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_msr/</guid>
+      <description>&lt;p&gt;Congratulations Yuhan!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu successfully completes her MS exam at UChicago.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_master/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_master/</guid>
+      <description>&lt;p&gt;Congratulations Yuhan!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Junchen&#39;s talk on the LLM Caching Layer at Databricks and Alluxio’s AI/ML Infra meetup.

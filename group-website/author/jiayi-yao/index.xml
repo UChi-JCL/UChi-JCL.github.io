@@ -5,12 +5,30 @@
     <link>https://uchi-jcl.github.io/group-website/author/jiayi-yao/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/author/jiayi-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayi Yao</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/author/jiayi-yao/avatar_hu149c8e988b93d5ff462b0de3f4e6d45a_435696_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiayi Yao</title>
       <link>https://uchi-jcl.github.io/group-website/author/jiayi-yao/</link>
     </image>
+    
+    <item>
+      <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/cacheblend/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/cacheblend/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>

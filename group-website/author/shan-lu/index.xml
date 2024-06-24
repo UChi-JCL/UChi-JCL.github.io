@@ -5,12 +5,30 @@
     <link>https://uchi-jcl.github.io/group-website/author/shan-lu/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/author/shan-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shan Lu</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Shan Lu</title>
       <link>https://uchi-jcl.github.io/group-website/author/shan-lu/</link>
     </image>
+    
+    <item>
+      <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/cacheblend/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/cacheblend/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Automatic and Efficient Customization of Neural Networks for ML Applications</title>
