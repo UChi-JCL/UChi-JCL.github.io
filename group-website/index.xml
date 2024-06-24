@@ -28,6 +28,65 @@
     </item>
     
     <item>
+      <title>Zhengxu Xia successfully completes his PhD candidacy exam at UChicago.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/zhengxu_cand/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/zhengxu_cand/</guid>
+      <description>&lt;p&gt;Congratulations Zhengxu!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yihua Cheng starts his internship at Conviva.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yihua_conv/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yihua_conv/</guid>
+      <description>&lt;p&gt;Congratulations Yihua!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/cacheblend/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/cacheblend/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion out on ArXiv.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/cacheblend/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/cacheblend/</guid>
+      <description>&lt;p&gt;Check out the paper for more details : &lt;a href=&#34;https://arxiv.org/abs/2405.16444&#34;&gt; Paper &lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu starts her internship at Microsoft Research.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_msr/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_msr/</guid>
+      <description>&lt;p&gt;Congratulations Yuhan!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu successfully completes her MS exam at UChicago.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_master/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_master/</guid>
+      <description>&lt;p&gt;Congratulations Yuhan!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Junchen&#39;s talk on the LLM Caching Layer at Databricks and Alluxio’s AI/ML Infra meetup.
 </title>
       <link>https://uchi-jcl.github.io/group-website/post/junchen_databricks/</link>
