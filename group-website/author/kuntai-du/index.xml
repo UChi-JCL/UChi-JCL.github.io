@@ -5,12 +5,48 @@
     <link>https://uchi-jcl.github.io/group-website/author/kuntai-du/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/author/kuntai-du/index.xml" rel="self" type="application/rss+xml" />
     <description>Kuntai Du</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/author/kuntai-du/avatar_hu7fba9da1679ce4a56c592454604cb9c1_160681_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Kuntai Du</title>
       <link>https://uchi-jcl.github.io/group-website/author/kuntai-du/</link>
     </image>
+    
+    <item>
+      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/cachegen/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/cachegen/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eloquent: A More Robust Transmission Scheme for LLM Token Streaming</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/chatterbox/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/chatterbox/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion</title>
@@ -85,46 +121,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://uchi-jcl.github.io/group-website/publication/cachegen/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://uchi-jcl.github.io/group-website/publication/cachegen/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations</title>
       <link>https://uchi-jcl.github.io/group-website/publication/earthplus/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://uchi-jcl.github.io/group-website/publication/earthplus/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network</title>
-      <link>https://uchi-jcl.github.io/group-website/publication/chatterbox/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://uchi-jcl.github.io/group-website/publication/chatterbox/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
