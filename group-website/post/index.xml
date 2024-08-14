@@ -5,12 +5,44 @@
     <link>https://uchi-jcl.github.io/group-website/post/</link>
       <atom:link href="https://uchi-jcl.github.io/group-website/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://uchi-jcl.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
       <link>https://uchi-jcl.github.io/group-website/post/</link>
     </image>
+    
+    <item>
+      <title>Hanchen presented CacheGen paper at SIGCOMM&#39;24.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/hanchen_sigcomm/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/hanchen_sigcomm/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; CacheGen is a LLM KV cache compression and streaming system that saves storage size and reduces transfer time. By utilizing delta compression and information theory, CacheGen is able to further compress KV cache by up to 4.3x on top of previous machine learning techniques with option to incur NO additional loss. &lt;/p&gt;
+&lt;p&gt;Link to a pre-recorded version:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/H4_OUWvdiNo?si=oWtNqMszSVOqKeAV&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Junchen&#39;s talk on Knowledge-Delivery Networks at ByteDance and APNet&#39;24.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/junchen_bytedance/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/junchen_bytedance/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; Imagine once an LLM has processed a document, the &#34;knowledge&#34; can be instantly shared with other LLM instances. Unfortunately, today, LLMs must read the same long document multiple times, causing a significant slowdown. We introduce a new Knowledge Delivery Network that enables LLMs to efficiently share their digested knowledge, in the form of KV caches, so only one LLM instance needs to process (prefill) each document. The key challenge is how to store the KV caches cheaply and serve them quickly. Instead of keeping the KV caches of all reusable chunks in GPU or CPU memory, we show that with careful design and implementation, storing them on cheaper devices is not only economically superior but also delivers significant reductions in LLM serving delay, especially the time to the first token. &lt;/p&gt;
+&lt;br&gt; 
+Slides link : &lt;a href=&#34;https://people.cs.uchicago.edu/~junchenj/docs/LLM_Jiang_v10_APNet.pptx&#34;&gt; Download &lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu presented ChameleonAPI at OSDI&#39;24.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_osdi/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_osdi/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; ChameleonAPI provides application developers with a parser that automatically analyzes the application to produce an abstract of its decision process, which is then used to devise an application-specific loss function that only penalizes API output errors critical to the application. ChameleonAPI uses the loss function to efficiently train a neural network model customized for each application and deploys it to serve API invocations from the respective application via existing interface. Compared to a baseline that selects the best-of-all commercial ML API, ChameleonAPI reduces incorrect application decisions by 43%. &lt;/p&gt;
+&lt;br&gt; 
+Check out the paper for more details : &lt;a href=&#34;https://www.usenix.org/conference/osdi24/presentation/liu&#34;&gt; ChameleonAPI &lt;/a&gt;</description>
+    </item>
     
     <item>
       <title>Zhengxu Xia successfully completes his PhD candidacy exam at UChicago.</title>

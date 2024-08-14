@@ -28,6 +28,74 @@
     </item>
     
     <item>
+      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/cachegen/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/cachegen/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hanchen presented CacheGen paper at SIGCOMM&#39;24.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/hanchen_sigcomm/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/hanchen_sigcomm/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; CacheGen is a LLM KV cache compression and streaming system that saves storage size and reduces transfer time. By utilizing delta compression and information theory, CacheGen is able to further compress KV cache by up to 4.3x on top of previous machine learning techniques with option to incur NO additional loss. &lt;/p&gt;
+&lt;p&gt;Link to a pre-recorded version:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/H4_OUWvdiNo?si=oWtNqMszSVOqKeAV&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Junchen&#39;s talk on Knowledge-Delivery Networks at ByteDance and APNet&#39;24.
+</title>
+      <link>https://uchi-jcl.github.io/group-website/post/junchen_bytedance/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/junchen_bytedance/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; Imagine once an LLM has processed a document, the &#34;knowledge&#34; can be instantly shared with other LLM instances. Unfortunately, today, LLMs must read the same long document multiple times, causing a significant slowdown. We introduce a new Knowledge Delivery Network that enables LLMs to efficiently share their digested knowledge, in the form of KV caches, so only one LLM instance needs to process (prefill) each document. The key challenge is how to store the KV caches cheaply and serve them quickly. Instead of keeping the KV caches of all reusable chunks in GPU or CPU memory, we show that with careful design and implementation, storing them on cheaper devices is not only economically superior but also delivers significant reductions in LLM serving delay, especially the time to the first token. &lt;/p&gt;
+&lt;br&gt; 
+Slides link : &lt;a href=&#34;https://people.cs.uchicago.edu/~junchenj/docs/LLM_Jiang_v10_APNet.pptx&#34;&gt; Download &lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eloquent: A More Robust Transmission Scheme for LLM Token Streaming</title>
+      <link>https://uchi-jcl.github.io/group-website/publication/chatterbox/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/publication/chatterbox/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuhan Liu presented ChameleonAPI at OSDI&#39;24.</title>
+      <link>https://uchi-jcl.github.io/group-website/post/yuhan_osdi/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://uchi-jcl.github.io/group-website/post/yuhan_osdi/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; ChameleonAPI provides application developers with a parser that automatically analyzes the application to produce an abstract of its decision process, which is then used to devise an application-specific loss function that only penalizes API output errors critical to the application. ChameleonAPI uses the loss function to efficiently train a neural network model customized for each application and deploys it to serve API invocations from the respective application via existing interface. Compared to a baseline that selects the best-of-all commercial ML API, ChameleonAPI reduces incorrect application decisions by 43%. &lt;/p&gt;
+&lt;br&gt; 
+Check out the paper for more details : &lt;a href=&#34;https://www.usenix.org/conference/osdi24/presentation/liu&#34;&gt; ChameleonAPI &lt;/a&gt;</description>
+    </item>
+    
+    <item>
       <title>Zhengxu Xia successfully completes his PhD candidacy exam at UChicago.</title>
       <link>https://uchi-jcl.github.io/group-website/post/zhengxu_cand/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
@@ -202,24 +270,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving</title>
-      <link>https://uchi-jcl.github.io/group-website/publication/cachegen/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://uchi-jcl.github.io/group-website/publication/cachegen/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Earth&#43;: on-board satellite imagery compression leveraging historical earth observations</title>
       <link>https://uchi-jcl.github.io/group-website/publication/earthplus/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
@@ -265,24 +315,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <description>&lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt; Satellite imagery is useful for a wide range of applications, from automatic road detection to forest monitoring. But did you know only 2% of satellite images can actually be downloaded to the ground? To help satellites download more images, we&#39;ve noticed that the same locations is frequently captured by different satellites and the captured images can be quite similar. By using this similarity, we can squeeze satellite images down to 3x smaller. &lt;/p&gt;
 &lt;p style=&#34;font-size:18px&#34; align=&#34;justify&#34;&gt;
 With the increasing deployment of earth observation satellite constellations, the downlink (satellite-to-ground) capacity often limits the freshness, quality, and coverage of the imagery data available to applications on the ground. To overcome the downlink limitation, we present Earth+, a new satellite imagery compression system that, instead of compressing each image individually, pinpoints and downloads only recent imagery changes with respect to the history reference images. To minimize the amount of changes, it is critical to make reference images as fresh as possible. Earth+ enables each satellite to choose fresh reference images from not only its own history images but also past images of other satellites from an entire satellite constellation. To share reference images across satellites, Earth+ utilizes the limited capacity of the existing uplink (ground-to-satellite) by judiciously selecting and compressing reference images while still allowing accurate change detection. In short, Earth+ is the first to make reference-based compression efficient, by enabling constellation-wide sharing of fresh reference images across satellites. Our evaluation shows that Earth+ can reduce the downlink usage by a factor of 3.3 compared to state-of-the-art on-board image compression techniques while not sacrificing image quality, or using more on-board computing or storage resources, or more uplink bandwidth than currently available. &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network</title>
-      <link>https://uchi-jcl.github.io/group-website/publication/chatterbox/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://uchi-jcl.github.io/group-website/publication/chatterbox/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
     </item>
     
     <item>

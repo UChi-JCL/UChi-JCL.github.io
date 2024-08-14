@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: July 18, 2024 --><html lang="en-us" >
+<!-- Last Published: August 14, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -314,7 +314,7 @@
 <meta property="og:description" content="Junchen Jiang&#39;s research group at The University of Chicago" /><meta property="og:image" content="https://uchi-jcl.github.io/group-website/media/icon_hua25ef39b30b8f32ff2a6fd2e1eed54f5_1032324_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2024-06-10T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2024-08-04T00:00:00&#43;00:00" />
   
 
 
@@ -715,6 +715,275 @@
   
 
   
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/group-website/post/hanchen_sigcomm/" >Hanchen presented CacheGen paper at SIGCOMM&#39;24.
+</a>
+    </div>
+
+    
+    <a href="/group-website/post/hanchen_sigcomm/"  class="summary-link">
+      <div class="article-style">
+        <p align="justify"> CacheGen is a LLM KV cache compression and streaming system that saves storage size and reduces transfer time. By utilizing delta compression and information theory, CacheGen is able to further compress KV cache by up to 4.3x on top of previous machine learning techniques with option to incur NO additional loss. </p>
+<p>Link to a pre-recorded version:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4_OUWvdiNo?si=oWtNqMszSVOqKeAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 4, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/group-website/post/junchen_bytedance/" >Junchen&#39;s talk on Knowledge-Delivery Networks at ByteDance and APNet&#39;24.
+</a>
+    </div>
+
+    
+    <a href="/group-website/post/junchen_bytedance/"  class="summary-link">
+      <div class="article-style">
+        <p align="justify"> Imagine once an LLM has processed a document, the "knowledge" can be instantly shared with other LLM instances. Unfortunately, today, LLMs must read the same long document multiple times, causing a significant slowdown. We introduce a new Knowledge Delivery Network that enables LLMs to efficiently share their digested knowledge, in the form of KV caches, so only one LLM instance needs to process (prefill) each document. The key challenge is how to store the KV caches cheaply and serve them quickly. Instead of keeping the KV caches of all reusable chunks in GPU or CPU memory, we show that with careful design and implementation, storing them on cheaper devices is not only economically superior but also delivers significant reductions in LLM serving delay, especially the time to the first token. </p>
+<br> 
+Slides link : <a href="https://people.cs.uchicago.edu/~junchenj/docs/LLM_Jiang_v10_APNet.pptx"> Download </a>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 4, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/group-website/post/yuhan_osdi/" >Yuhan Liu presented ChameleonAPI at OSDI&#39;24.</a>
+    </div>
+
+    
+    <a href="/group-website/post/yuhan_osdi/"  class="summary-link">
+      <div class="article-style">
+        <p align="justify"> ChameleonAPI provides application developers with a parser that automatically analyzes the application to produce an abstract of its decision process, which is then used to devise an application-specific loss function that only penalizes API output errors critical to the application. ChameleonAPI uses the loss function to efficiently train a neural network model customized for each application and deploys it to serve API invocations from the respective application via existing interface. Compared to a baseline that selects the best-of-all commercial ML API, ChameleonAPI reduces incorrect application decisions by 43%. </p>
+<br> 
+Check out the paper for more details : <a href="https://www.usenix.org/conference/osdi24/presentation/liu"> ChameleonAPI </a>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 10, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
   
     
 
@@ -1298,269 +1567,6 @@
       
     
     May 10, 2024
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/group-website/post/cachegen_sigcomm/" >CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving accepted at SIGCOMM&#39;24.
-</a>
-    </div>
-
-    
-    <a href="/group-website/post/cachegen_sigcomm/"  class="summary-link">
-      <div class="article-style">
-        <p>Congratulations to Yuhan et al.</p>
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 7, 2024
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/group-website/post/grace_nsdi/" >Grace: Loss-Resilient Real-Time Video through Neural Codecs accepted at NSDI&#39;24.
-</a>
-    </div>
-
-    
-    <a href="/group-website/post/grace_nsdi/"  class="summary-link">
-      <div class="article-style">
-        <p>Congratulations to Yihua Cheng et al.</p>
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Mar 15, 2024
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/group-website/post/automl_osdi/" >Automatic and Efficient Customization of Neural Networks for ML Applications accecpted at OSDI&#39;24.</a>
-    </div>
-
-    
-    <a href="/group-website/post/automl_osdi/"  class="summary-link">
-      <div class="article-style">
-        <p>Congratulations to Yuhan et al.</p>
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jan 1, 2024
   </span>
   
 
